@@ -15,6 +15,7 @@ public class Log4j_Demo
 		logger.debug("Debug message");
 		logger.error("Error meggage");
 		logger.fatal("Fatal message");
+		logger.fatal("Error message");
 		
 		Division division=new Division();
 		

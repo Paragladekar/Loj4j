@@ -28,6 +28,7 @@ public class Log4j_Demo
 		{
 			division.div(50, 5);
 			logger.fatal("Fatal message");
+			 logger.fatal("Fatal message");
 		}
 	}
 	

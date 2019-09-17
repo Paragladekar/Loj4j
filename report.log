@@ -1,0 +1,10 @@
+2019-08-29 15:11:35 INFO  Log4j_Demo:14 - Info message 
+2019-08-29 15:11:35 DEBUG Log4j_Demo:15 - Debug message
+2019-08-29 15:11:35 ERROR Log4j_Demo:16 - Error meggage
+2019-08-29 15:11:35 FATAL Log4j_Demo:17 - Fatal message
+2019-08-29 15:21:27 INFO  Log4j_Demo:14 - Info message 
+2019-08-29 15:21:27 DEBUG Log4j_Demo:15 - Debug message
+2019-08-29 15:21:27 ERROR Log4j_Demo:16 - Error meggage
+2019-08-29 15:21:27 FATAL Log4j_Demo:17 - Fatal message
+2019-08-29 15:21:27 INFO  Division:12 - Info message
+2019-08-29 15:21:27 FATAL Log4j_Demo:29 - Fatal message
